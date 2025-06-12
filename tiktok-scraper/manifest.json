@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
     "name": "TikTok Comment Scraper",
-    "version": "1.0",
-    "description": "Scrape TikTok comments as CSV.",
+    "version": "1.1",
+    "description": "Scrape TikTok comments as XSLX.",
     "permissions": ["scripting", "tabs", "clipboardWrite"],
     "host_permissions": ["https://www.tiktok.com/*"],
     "action": {

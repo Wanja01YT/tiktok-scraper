@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
             scrapeBtn.textContent = 'Scraping finished';
             scrapeBtn.classList.remove('btn-secondary');
             scrapeBtn.classList.add('btn-dark');
-            status.innerHTML = `Scraped ${currentCount} comment${currentCount !== 1 ? 's' : ''}<br>Comments saved to clipboard`;
+            status.innerHTML = `Scraped ${currentCount} comment${currentCount !== 1 ? 's' : ''}<br><b>Comments saved as spreadsheet</b>`;
           
             // Prompt XLSX download
             convertCsvToXlsx(scrapedCsv);
