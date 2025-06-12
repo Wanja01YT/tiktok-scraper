@@ -1,0 +1,7 @@
+body {
+    width: 260px;
+}
+
+#scrapeBtn:disabled {
+    cursor: not-allowed;
+}
