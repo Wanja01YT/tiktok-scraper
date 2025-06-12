@@ -2,7 +2,7 @@
 A Chrome extension to scrape TikTok comments for giveaways and events, saving them as a downloadable XLSX spreadsheet.    
 </p>
 
-[![Static Badge](https://img.shields.io/badge/chromium-1.0-blue?logo=GoogleChrome)]()
+[![Static Badge](https://img.shields.io/badge/chromium-1.0-blue?logo=GoogleChrome)](https://github.com/Wanja01YT/tiktok-scraper/releases/download/1.0/tiktok-scraper-1.0-chromium.zip)
 ![Static Badge](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ## Usage and Limits
@@ -28,7 +28,7 @@ A Chrome extension to scrape TikTok comments for giveaways and events, saving th
   * In rare cases (especially on lower-end devices), the tab may become unresponsive or crash — simply retry or reduce load
   
 ## Downloads
-- [Chromium]() <br> _Supported by any Chromium-based browser, such as Chrome, Edge, Opera_
+- [Chromium](https://github.com/Wanja01YT/tiktok-scraper/releases/download/1.0/tiktok-scraper-1.0-chromium.zip) <br> _Supported by any Chromium-based browser, such as Chrome, Edge, Opera_
 
 ## Credits
 #### [cubernetes' TiktokCommentScraper](https://github.com/cubernetes/TikTokCommentScraper)
